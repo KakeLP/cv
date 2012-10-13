@@ -44,9 +44,9 @@ standards.
 ### March 2008 – October 2010: Senior Systems Administrator for Ominor
 
 At Ominor I set up and maintained 30+ servers for a range of e-commerce
-websites developed in PHP and Ruby on Rails, spread across two data centres
+websites developed in PHP and Ruby on Rails, spread across 2 data centres
 in several environments. One of my major tasks was to provision a new rack
-for a client with a turnover of approximately one million pounds a month. I
+for a client with a turnover of approximately 1 million pounds a month. I
 managed the servers with Puppet, and used Nagios and Munin to monitor the
 servers and collect usage data.
 
@@ -64,7 +64,7 @@ their new provider.
 
 ### January 2006 – December 2007: Senior Systems Administrator for Fotango
 
-At Fotango I was a member of a five-person team providing support for about
+At Fotango I was a member of a 5-person team providing support for about
 200 RedHat and Debian machines in our production, staging, development and
 office environments.
 
@@ -89,9 +89,9 @@ MySQL databases.
 
 ### August 2002 - December 2005: Senior Systems Administrator for [Glu Mobile][]
 
-While at Glu Mobile I installed and  maintained  over  twenty  internal  and
+While at Glu Mobile I installed and  maintained  over  20  internal  and
 external systems which provided numerous services.  My  main  duty  was  the
-administration of six Sun machines (3x280R, 3xv100)  running  Solaris  which
+administration of 6 Sun machines (3x280R, 3xv100)  running  Solaris  which
 acted as a provisioning system for mobile games using  Jboss  and  MySQL.  I
 also administered machines running other services such as mail,  DNS,  Samba
 for internal  file  shares,  Checkpoint  FW-1/VPN-1,  HTTP  (both  barebones
@@ -118,7 +118,7 @@ Windows) and set up several services on their Linux server.
 ### August 1999 - June 2000: Systems Administrator and Software Developer for Pepper Head Design
 
 I joined Pepper Head Design as an HTML coder and progressed to become a  PHP
-and JSP developer leading a team of two other  developers.  I  also  liaised
+and JSP developer leading a team of 2 other  developers.  I  also  liaised
 with our outsourced Java developers, and  was  responsible  for  support  of
 desktops and servers running a combination of Linux, OS/2 and Windows.
 
